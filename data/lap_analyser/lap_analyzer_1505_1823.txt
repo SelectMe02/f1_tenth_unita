@@ -1,0 +1,14 @@
+Laps done on 15 May 18:23:41
+Lap #1: 0.1791
+Lap #2: 0.2892
+Lap #3: 27.5573
+Lap #4: 3.8585
+Lap #5: 0.4292
+Lap #6: 2.8375
+Lap #7: 0.0816
+Lap #8: 0.0760
+Lap #9: 0.1406
+Lap #10: 0.1463
+Lap time over the past 10 laps: Mean: 3.5595, Std: 8.0993
+Avg Lat Error over the past 10 laps: Mean: 3.1388, Std: 2.0334
+Max Lat Error over the past 10 laps: Mean: 5.3646, Std: 2.3341
