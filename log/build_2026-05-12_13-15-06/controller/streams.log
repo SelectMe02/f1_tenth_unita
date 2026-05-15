@@ -1,0 +1,17 @@
+[5.544s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/controller': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/controller/build --no-deps symlink_data
+[6.403s] running develop
+[6.925s] running egg_info
+[6.925s] writing controller.egg-info/PKG-INFO
+[6.926s] writing dependency_links to controller.egg-info/dependency_links.txt
+[6.926s] writing entry points to controller.egg-info/entry_points.txt
+[6.926s] writing requirements to controller.egg-info/requires.txt
+[6.926s] writing top-level names to controller.egg-info/top_level.txt
+[6.930s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[6.931s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[6.936s] running build_ext
+[6.936s] Creating /home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages/controller.egg-link (link to .)
+[6.937s] Installing controller script to /home/hanjh/F1_TENTH_UNITA/install/controller/lib/controller
+[6.938s] 
+[6.938s] Installed /home/hanjh/F1_TENTH_UNITA/build/controller
+[6.939s] running symlink_data
+[7.436s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/controller' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/controller/build --no-deps symlink_data

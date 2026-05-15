@@ -1,0 +1,9 @@
+source;share/sector_tuner/hook/pythonpath.ps1
+source;share/sector_tuner/hook/pythonpath.dsv
+source;share/sector_tuner/hook/pythonpath.sh
+source;share/sector_tuner/hook/ament_prefix_path.ps1
+source;share/sector_tuner/hook/ament_prefix_path.dsv
+source;share/sector_tuner/hook/ament_prefix_path.sh
+source;../../build/sector_tuner/share/sector_tuner/hook/pythonpath_develop.ps1
+source;../../build/sector_tuner/share/sector_tuner/hook/pythonpath_develop.dsv
+source;../../build/sector_tuner/share/sector_tuner/hook/pythonpath_develop.sh

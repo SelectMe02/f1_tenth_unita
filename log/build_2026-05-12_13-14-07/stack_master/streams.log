@@ -1,0 +1,94 @@
+[8.638s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/stack_master': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/stack_master/build --no-deps symlink_data
+[11.727s] running develop
+[13.884s] running egg_info
+[13.884s] creating stack_master.egg-info
+[13.884s] writing stack_master.egg-info/PKG-INFO
+[13.897s] writing dependency_links to stack_master.egg-info/dependency_links.txt
+[13.897s] writing entry points to stack_master.egg-info/entry_points.txt
+[13.897s] writing requirements to stack_master.egg-info/requires.txt
+[13.897s] writing top-level names to stack_master.egg-info/top_level.txt
+[13.897s] writing manifest file 'stack_master.egg-info/SOURCES.txt'
+[13.913s] reading manifest file 'stack_master.egg-info/SOURCES.txt'
+[13.920s] writing manifest file 'stack_master.egg-info/SOURCES.txt'
+[13.938s] running build_ext
+[13.938s] Creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages/stack-master.egg-link (link to .)
+[13.942s] Installing global_parameter_node script to /home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/stack_master
+[13.942s] 
+[13.942s] Installed /home/hanjh/F1_TENTH_UNITA/build/stack_master
+[13.942s] running symlink_data
+[13.942s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/ament_index
+[13.955s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/ament_index/resource_index
+[13.955s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/ament_index/resource_index/packages
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/resource/stack_master -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/ament_index/resource_index/packages
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master
+[13.956s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/launch/mapping_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/launch/head_to_head_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/launch/test_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/launch/base_system_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/launch/time_trials_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch
+[13.956s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/launch/subsystems
+[13.956s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/opponent_tracker_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/mux.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.956s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/state_machine_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.957s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/sensors.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config
+[13.957s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.957s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC2/slam/f110_2d.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.960s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC2/slam/f110_2d_loc.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.960s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC2/joy_teleop.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.960s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC2/l1_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.960s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC2/vesc.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC2
+[13.960s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.960s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC5/slam/f110_2d.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.961s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC5/slam/f110_2d_loc.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.961s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC5/joy_teleop.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.961s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC5/l1_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.961s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC5/vesc.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC5
+[13.961s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC6
+[13.961s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC6/slam/f110_2d.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC6
+[13.962s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC6/slam/f110_2d_loc.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC6
+[13.962s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.962s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC7/joy_teleop.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.966s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC7/l1_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.967s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC7/vesc.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC7/slam/f110_2d.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/NUC7/slam/f110_2d_loc.lua -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/NUC7
+[13.973s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/SIM
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/SIM/sim.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/SIM
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/SIM/l1_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/SIM
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/SIM/sim.rviz -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/SIM
+[13.973s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/SIM/sim_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/SIM
+[13.974s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner
+[13.974s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_planner/global_planner_params.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner
+[13.974s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_planner/racecar_f110.ini -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner
+[13.974s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner/veh_dyn_info
+[13.974s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_planner/veh_dyn_info/ax_max_machines.csv -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner/veh_dyn_info
+[13.974s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_planner/veh_dyn_info/ggv.csv -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/config/global_planner/veh_dyn_info
+[13.974s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps
+[13.974s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.976s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/global_waypoints.json -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.976s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/GLC_smile_small.pbstream -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.976s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/GLC_smile_small.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.976s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/ot_sectors.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.976s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/pf_map.png -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/speed_scaling.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/pf_map.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/GLC_smile_small/GLC_smile_small.png -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/GLC_smile_small
+[13.982s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/hangar_1905_v0
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/hangar_1905_v0/global_waypoints.json -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/hangar_1905_v0
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/hangar_1905_v0/hangar_1905_v0.png -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/hangar_1905_v0
+[13.982s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/hangar_1905_v0/hangar_1905_v0.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/hangar_1905_v0
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/hangar_1905_v0/hangar_1905_v0.pbstream -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/hangar_1905_v0
+[13.983s] creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/global_waypoints.json -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/ot_sectors.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/pf_map.png -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/speed_scaling.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.983s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/glc_ot_ez.pbstream -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.993s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/glc_ot_ez.png -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.993s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/pf_map.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.994s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/glc_ot_ez.yaml -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[13.994s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/stack_master/maps/glc_ot_ez/global_waypoints.json.bak -> /home/hanjh/F1_TENTH_UNITA/install/stack_master/share/stack_master/maps/glc_ot_ez
+[19.621s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/stack_master' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/stack_master/build --no-deps symlink_data

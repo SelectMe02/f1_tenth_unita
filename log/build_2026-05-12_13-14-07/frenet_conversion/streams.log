@@ -1,0 +1,24 @@
+[8.869s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/frenet_conversion': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/build --no-deps symlink_data
+[11.537s] running develop
+[13.797s] running egg_info
+[13.798s] creating frenet_conversion.egg-info
+[13.798s] writing frenet_conversion.egg-info/PKG-INFO
+[13.798s] writing dependency_links to frenet_conversion.egg-info/dependency_links.txt
+[13.798s] writing entry points to frenet_conversion.egg-info/entry_points.txt
+[13.798s] writing requirements to frenet_conversion.egg-info/requires.txt
+[13.798s] writing top-level names to frenet_conversion.egg-info/top_level.txt
+[13.798s] writing manifest file 'frenet_conversion.egg-info/SOURCES.txt'
+[13.812s] reading manifest file 'frenet_conversion.egg-info/SOURCES.txt'
+[13.812s] writing manifest file 'frenet_conversion.egg-info/SOURCES.txt'
+[13.825s] running build_ext
+[13.825s] Creating /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/lib/python3.10/site-packages/frenet-conversion.egg-link (link to .)
+[13.840s] Installing frenet_converter_demo script to /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/lib/frenet_conversion
+[13.840s] 
+[13.841s] Installed /home/hanjh/F1_TENTH_UNITA/build/frenet_conversion
+[13.841s] running symlink_data
+[13.841s] creating /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/share/ament_index
+[13.841s] creating /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/share/ament_index/resource_index
+[13.841s] creating /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/share/ament_index/resource_index/packages
+[13.841s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/resource/frenet_conversion -> /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/share/ament_index/resource_index/packages
+[13.841s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/share/frenet_conversion
+[19.567s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/frenet_conversion' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/frenet_conversion/build --no-deps symlink_data

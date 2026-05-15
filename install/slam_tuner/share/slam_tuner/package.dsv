@@ -1,0 +1,9 @@
+source;share/slam_tuner/hook/pythonpath.ps1
+source;share/slam_tuner/hook/pythonpath.dsv
+source;share/slam_tuner/hook/pythonpath.sh
+source;share/slam_tuner/hook/ament_prefix_path.ps1
+source;share/slam_tuner/hook/ament_prefix_path.dsv
+source;share/slam_tuner/hook/ament_prefix_path.sh
+source;../../build/slam_tuner/share/slam_tuner/hook/pythonpath_develop.ps1
+source;../../build/slam_tuner/share/slam_tuner/hook/pythonpath_develop.dsv
+source;../../build/slam_tuner/share/slam_tuner/hook/pythonpath_develop.sh

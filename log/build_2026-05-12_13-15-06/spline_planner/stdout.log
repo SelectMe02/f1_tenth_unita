@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing spline_planner.egg-info/PKG-INFO
+writing dependency_links to spline_planner.egg-info/dependency_links.txt
+writing entry points to spline_planner.egg-info/entry_points.txt
+writing requirements to spline_planner.egg-info/requires.txt
+writing top-level names to spline_planner.egg-info/top_level.txt
+reading manifest file 'spline_planner.egg-info/SOURCES.txt'
+writing manifest file 'spline_planner.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hanjh/F1_TENTH_UNITA/install/spline_planner/lib/python3.10/site-packages/spline-planner.egg-link (link to .)
+Installing spline_planner script to /home/hanjh/F1_TENTH_UNITA/install/spline_planner/lib/spline_planner
+
+Installed /home/hanjh/F1_TENTH_UNITA/build/spline_planner
+running symlink_data

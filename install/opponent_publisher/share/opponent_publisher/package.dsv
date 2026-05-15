@@ -1,0 +1,9 @@
+source;share/opponent_publisher/hook/pythonpath.ps1
+source;share/opponent_publisher/hook/pythonpath.dsv
+source;share/opponent_publisher/hook/pythonpath.sh
+source;share/opponent_publisher/hook/ament_prefix_path.ps1
+source;share/opponent_publisher/hook/ament_prefix_path.dsv
+source;share/opponent_publisher/hook/ament_prefix_path.sh
+source;../../build/opponent_publisher/share/opponent_publisher/hook/pythonpath_develop.ps1
+source;../../build/opponent_publisher/share/opponent_publisher/hook/pythonpath_develop.dsv
+source;../../build/opponent_publisher/share/opponent_publisher/hook/pythonpath_develop.sh

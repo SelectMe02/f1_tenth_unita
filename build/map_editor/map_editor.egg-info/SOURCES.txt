@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+launch/map_editor_launch.xml
+map_editor/__init__.py
+map_editor.egg-info/PKG-INFO
+map_editor.egg-info/SOURCES.txt
+map_editor.egg-info/dependency_links.txt
+map_editor.egg-info/requires.txt
+map_editor.egg-info/top_level.txt
+map_editor.egg-info/zip-safe
+resource/map_editor
+rviz/editor.rviz

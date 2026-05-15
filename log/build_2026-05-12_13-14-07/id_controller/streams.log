@@ -1,0 +1,23 @@
+[9.039s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/id_controller': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/id_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/id_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/id_controller/build --no-deps symlink_data
+[12.441s] running develop
+[12.642s] running egg_info
+[12.642s] creating id_controller.egg-info
+[12.644s] writing id_controller.egg-info/PKG-INFO
+[12.644s] writing dependency_links to id_controller.egg-info/dependency_links.txt
+[12.644s] writing entry points to id_controller.egg-info/entry_points.txt
+[12.644s] writing requirements to id_controller.egg-info/requires.txt
+[12.652s] writing top-level names to id_controller.egg-info/top_level.txt
+[12.658s] writing manifest file 'id_controller.egg-info/SOURCES.txt'
+[12.673s] reading manifest file 'id_controller.egg-info/SOURCES.txt'
+[12.675s] writing manifest file 'id_controller.egg-info/SOURCES.txt'
+[12.694s] running build_ext
+[12.694s] Creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/lib/python3.10/site-packages/id-controller.egg-link (link to .)
+[12.696s] 
+[12.696s] Installed /home/hanjh/F1_TENTH_UNITA/build/id_controller
+[12.696s] running symlink_data
+[12.706s] creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index
+[12.707s] creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index
+[12.707s] creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index/packages
+[12.707s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/id_controller/resource/id_controller -> /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index/packages
+[12.708s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/id_controller/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/id_controller
+[13.914s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/id_controller' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/id_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/id_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/id_controller/build --no-deps symlink_data

@@ -1,0 +1,17 @@
+{
+  "package_name": "f110_msgs",
+  "non_idl_tuples": [
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/CarState.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/CarStateStamped.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/GapData.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/LapData.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/OTWpntArray.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/Obstacle.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/ObstacleArray.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/PidData.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/Wpnt.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/WpntArray.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/OpponentTrajectory.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/utilities/libraries/f110_msgs:msg/OppWpnt.msg"
+  ]
+}

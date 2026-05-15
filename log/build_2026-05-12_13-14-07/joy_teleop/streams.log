@@ -1,0 +1,29 @@
+[3.047s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/joy_teleop': CMAKE_PREFIX_PATH=/home/hanjh/F1_TENTH_UNITA/install/teleop_tools_msgs:/home/hanjh/F1_TENTH_UNITA/install/vesc:/home/hanjh/F1_TENTH_UNITA/install/vesc_driver:/home/hanjh/F1_TENTH_UNITA/install/vesc_ackermann:/home/hanjh/F1_TENTH_UNITA/install/vesc_msgs:/home/hanjh/F1_TENTH_UNITA/install/teleop_tools:/home/hanjh/F1_TENTH_UNITA/install/f110_msgs:/home/hanjh/F1_TENTH_UNITA/install/ackermann_mux:/home/hanjh/ros2_ws/install/custom_interfaces LD_LIBRARY_PATH=/home/hanjh/F1_TENTH_UNITA/install/teleop_tools_msgs/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_driver/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_ackermann/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_msgs/lib:/home/hanjh/F1_TENTH_UNITA/install/f110_msgs/lib:/home/hanjh/ros2_ws/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/joy_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/joy_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/build --no-deps symlink_data
+[3.959s] running develop
+[4.423s] running egg_info
+[4.423s] creating joy_teleop.egg-info
+[4.423s] writing joy_teleop.egg-info/PKG-INFO
+[4.424s] writing dependency_links to joy_teleop.egg-info/dependency_links.txt
+[4.424s] writing entry points to joy_teleop.egg-info/entry_points.txt
+[4.424s] writing requirements to joy_teleop.egg-info/requires.txt
+[4.424s] writing top-level names to joy_teleop.egg-info/top_level.txt
+[4.425s] writing manifest file 'joy_teleop.egg-info/SOURCES.txt'
+[4.427s] reading manifest file 'joy_teleop.egg-info/SOURCES.txt'
+[4.428s] writing manifest file 'joy_teleop.egg-info/SOURCES.txt'
+[4.432s] running build_ext
+[4.432s] Creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/lib/python3.10/site-packages/joy-teleop.egg-link (link to .)
+[4.433s] Installing incrementer_server script to /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/lib/joy_teleop
+[4.433s] Installing joy_teleop script to /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/lib/joy_teleop
+[4.434s] 
+[4.434s] Installed /home/hanjh/F1_TENTH_UNITA/build/joy_teleop
+[4.435s] running symlink_data
+[4.435s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/joy_teleop
+[4.435s] creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/joy_teleop/config
+[4.435s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/config/joy_teleop_example.yaml -> /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/joy_teleop/config
+[4.435s] creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/joy_teleop/launch
+[4.436s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/launch/example.launch.py -> /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/joy_teleop/launch
+[4.436s] creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/ament_index
+[4.436s] creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/ament_index/resource_index
+[4.436s] creating /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/ament_index/resource_index/packages
+[4.436s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/resource/joy_teleop -> /home/hanjh/F1_TENTH_UNITA/install/joy_teleop/share/ament_index/resource_index/packages
+[4.502s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/joy_teleop' returned '0': CMAKE_PREFIX_PATH=/home/hanjh/F1_TENTH_UNITA/install/teleop_tools_msgs:/home/hanjh/F1_TENTH_UNITA/install/vesc:/home/hanjh/F1_TENTH_UNITA/install/vesc_driver:/home/hanjh/F1_TENTH_UNITA/install/vesc_ackermann:/home/hanjh/F1_TENTH_UNITA/install/vesc_msgs:/home/hanjh/F1_TENTH_UNITA/install/teleop_tools:/home/hanjh/F1_TENTH_UNITA/install/f110_msgs:/home/hanjh/F1_TENTH_UNITA/install/ackermann_mux:/home/hanjh/ros2_ws/install/custom_interfaces LD_LIBRARY_PATH=/home/hanjh/F1_TENTH_UNITA/install/teleop_tools_msgs/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_driver/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_ackermann/lib:/home/hanjh/F1_TENTH_UNITA/install/vesc_msgs/lib:/home/hanjh/F1_TENTH_UNITA/install/f110_msgs/lib:/home/hanjh/ros2_ws/install/custom_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/joy_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/joy_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/joy_teleop/build --no-deps symlink_data

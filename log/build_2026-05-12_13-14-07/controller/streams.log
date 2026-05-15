@@ -1,0 +1,26 @@
+[8.640s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/controller': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/controller/build --no-deps symlink_data
+[11.585s] running develop
+[13.004s] running egg_info
+[13.004s] creating controller.egg-info
+[13.004s] writing controller.egg-info/PKG-INFO
+[13.004s] writing dependency_links to controller.egg-info/dependency_links.txt
+[13.005s] writing entry points to controller.egg-info/entry_points.txt
+[13.008s] writing requirements to controller.egg-info/requires.txt
+[13.009s] writing top-level names to controller.egg-info/top_level.txt
+[13.009s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[13.025s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[13.026s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[13.034s] running build_ext
+[13.034s] Creating /home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages/controller.egg-link (link to .)
+[13.035s] Installing controller script to /home/hanjh/F1_TENTH_UNITA/install/controller/lib/controller
+[13.036s] 
+[13.036s] Installed /home/hanjh/F1_TENTH_UNITA/build/controller
+[13.036s] running symlink_data
+[13.036s] creating /home/hanjh/F1_TENTH_UNITA/install/controller/share/ament_index
+[13.036s] creating /home/hanjh/F1_TENTH_UNITA/install/controller/share/ament_index/resource_index
+[13.037s] creating /home/hanjh/F1_TENTH_UNITA/install/controller/share/ament_index/resource_index/packages
+[13.037s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/controller/resource/controller -> /home/hanjh/F1_TENTH_UNITA/install/controller/share/ament_index/resource_index/packages
+[13.037s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/controller/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/controller/share/controller
+[13.037s] creating /home/hanjh/F1_TENTH_UNITA/install/controller/share/controller/launch
+[13.037s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/controller/launch/controller_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/controller/share/controller/launch
+[13.760s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/controller' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/controller/build --no-deps symlink_data

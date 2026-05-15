@@ -1,0 +1,9 @@
+source;share/lap_analyser/hook/pythonpath.ps1
+source;share/lap_analyser/hook/pythonpath.dsv
+source;share/lap_analyser/hook/pythonpath.sh
+source;share/lap_analyser/hook/ament_prefix_path.ps1
+source;share/lap_analyser/hook/ament_prefix_path.dsv
+source;share/lap_analyser/hook/ament_prefix_path.sh
+source;../../build/lap_analyser/share/lap_analyser/hook/pythonpath_develop.ps1
+source;../../build/lap_analyser/share/lap_analyser/hook/pythonpath_develop.dsv
+source;../../build/lap_analyser/share/lap_analyser/hook/pythonpath_develop.sh

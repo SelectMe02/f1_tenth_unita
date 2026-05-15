@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+launch/opponent_publisher_launch.xml
+opponent_publisher/__init__.py
+opponent_publisher/collision_detector.py
+opponent_publisher/obstacle_publisher.py
+opponent_publisher.egg-info/PKG-INFO
+opponent_publisher.egg-info/SOURCES.txt
+opponent_publisher.egg-info/dependency_links.txt
+opponent_publisher.egg-info/entry_points.txt
+opponent_publisher.egg-info/requires.txt
+opponent_publisher.egg-info/top_level.txt
+opponent_publisher.egg-info/zip-safe
+resource/opponent_publisher

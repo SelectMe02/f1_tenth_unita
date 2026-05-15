@@ -1,0 +1,4 @@
+[console_scripts]
+detect = perception.detect:main
+tracking = perception.tracking:main
+

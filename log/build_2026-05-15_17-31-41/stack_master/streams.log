@@ -1,0 +1,17 @@
+[0.607s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/stack_master': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/stack_master/build --no-deps symlink_data
+[0.873s] running develop
+[1.056s] running egg_info
+[1.056s] writing stack_master.egg-info/PKG-INFO
+[1.056s] writing dependency_links to stack_master.egg-info/dependency_links.txt
+[1.056s] writing entry points to stack_master.egg-info/entry_points.txt
+[1.056s] writing requirements to stack_master.egg-info/requires.txt
+[1.056s] writing top-level names to stack_master.egg-info/top_level.txt
+[1.058s] reading manifest file 'stack_master.egg-info/SOURCES.txt'
+[1.059s] writing manifest file 'stack_master.egg-info/SOURCES.txt'
+[1.060s] running build_ext
+[1.061s] Creating /home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages/stack-master.egg-link (link to .)
+[1.061s] Installing global_parameter_node script to /home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/stack_master
+[1.061s] 
+[1.061s] Installed /home/hanjh/F1_TENTH_UNITA/build/stack_master
+[1.061s] running symlink_data
+[1.084s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/stack_master' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/stack_master/build --no-deps symlink_data

@@ -1,0 +1,1 @@
+/home/hanjh/F1_TENTH_UNITA/build/f110_msgs/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/opponent_trajectory__rosidl_typesupport_introspection_cpp.hpp

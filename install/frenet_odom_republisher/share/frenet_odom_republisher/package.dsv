@@ -1,0 +1,9 @@
+source;share/frenet_odom_republisher/hook/pythonpath.ps1
+source;share/frenet_odom_republisher/hook/pythonpath.dsv
+source;share/frenet_odom_republisher/hook/pythonpath.sh
+source;share/frenet_odom_republisher/hook/ament_prefix_path.ps1
+source;share/frenet_odom_republisher/hook/ament_prefix_path.dsv
+source;share/frenet_odom_republisher/hook/ament_prefix_path.sh
+source;../../build/frenet_odom_republisher/share/frenet_odom_republisher/hook/pythonpath_develop.ps1
+source;../../build/frenet_odom_republisher/share/frenet_odom_republisher/hook/pythonpath_develop.dsv
+source;../../build/frenet_odom_republisher/share/frenet_odom_republisher/hook/pythonpath_develop.sh

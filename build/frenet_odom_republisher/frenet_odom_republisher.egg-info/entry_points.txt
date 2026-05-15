@@ -1,0 +1,3 @@
+[console_scripts]
+frenet_odom_republisher_node = frenet_odom_republisher.frenet_odom_republisher_node:main
+

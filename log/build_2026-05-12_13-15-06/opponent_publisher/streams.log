@@ -1,0 +1,18 @@
+[5.491s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/build --no-deps symlink_data
+[6.312s] running develop
+[6.949s] running egg_info
+[6.950s] writing opponent_publisher.egg-info/PKG-INFO
+[6.950s] writing dependency_links to opponent_publisher.egg-info/dependency_links.txt
+[6.950s] writing entry points to opponent_publisher.egg-info/entry_points.txt
+[6.951s] writing requirements to opponent_publisher.egg-info/requires.txt
+[6.951s] writing top-level names to opponent_publisher.egg-info/top_level.txt
+[6.955s] reading manifest file 'opponent_publisher.egg-info/SOURCES.txt'
+[6.956s] writing manifest file 'opponent_publisher.egg-info/SOURCES.txt'
+[6.960s] running build_ext
+[6.960s] Creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages/opponent-publisher.egg-link (link to .)
+[6.962s] Installing collision_detector script to /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/opponent_publisher
+[6.962s] Installing obstacle_publisher script to /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/opponent_publisher
+[6.962s] 
+[6.962s] Installed /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher
+[6.962s] running symlink_data
+[7.435s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/build --no-deps symlink_data

@@ -1,0 +1,4 @@
+[console_scripts]
+collision_detector = opponent_publisher.collision_detector:main
+obstacle_publisher = opponent_publisher.obstacle_publisher:main
+

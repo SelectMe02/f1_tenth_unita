@@ -1,0 +1,9 @@
+source;share/global_planner/hook/pythonpath.ps1
+source;share/global_planner/hook/pythonpath.dsv
+source;share/global_planner/hook/pythonpath.sh
+source;share/global_planner/hook/ament_prefix_path.ps1
+source;share/global_planner/hook/ament_prefix_path.dsv
+source;share/global_planner/hook/ament_prefix_path.sh
+source;../../build/global_planner/share/global_planner/hook/pythonpath_develop.ps1
+source;../../build/global_planner/share/global_planner/hook/pythonpath_develop.dsv
+source;../../build/global_planner/share/global_planner/hook/pythonpath_develop.sh

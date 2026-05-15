@@ -1,0 +1,17 @@
+[3.594s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/state_machine': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/state_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/state_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/state_machine/build --no-deps symlink_data
+[4.560s] running develop
+[5.317s] running egg_info
+[5.317s] writing state_machine.egg-info/PKG-INFO
+[5.318s] writing dependency_links to state_machine.egg-info/dependency_links.txt
+[5.319s] writing entry points to state_machine.egg-info/entry_points.txt
+[5.319s] writing requirements to state_machine.egg-info/requires.txt
+[5.320s] writing top-level names to state_machine.egg-info/top_level.txt
+[5.327s] reading manifest file 'state_machine.egg-info/SOURCES.txt'
+[5.329s] writing manifest file 'state_machine.egg-info/SOURCES.txt'
+[5.337s] running build_ext
+[5.338s] Creating /home/hanjh/F1_TENTH_UNITA/install/state_machine/lib/python3.10/site-packages/state-machine.egg-link (link to .)
+[5.340s] Installing state_machine script to /home/hanjh/F1_TENTH_UNITA/install/state_machine/lib/state_machine
+[5.341s] 
+[5.341s] Installed /home/hanjh/F1_TENTH_UNITA/build/state_machine
+[5.341s] running symlink_data
+[5.475s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/state_machine' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/state_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/state_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/state_machine/build --no-deps symlink_data

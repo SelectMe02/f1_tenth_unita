@@ -1,0 +1,27 @@
+[9.003s] Invoking command in '/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/build --no-deps symlink_data
+[11.918s] running develop
+[12.969s] running egg_info
+[12.970s] creating opponent_publisher.egg-info
+[12.971s] writing opponent_publisher.egg-info/PKG-INFO
+[12.972s] writing dependency_links to opponent_publisher.egg-info/dependency_links.txt
+[12.973s] writing entry points to opponent_publisher.egg-info/entry_points.txt
+[12.973s] writing requirements to opponent_publisher.egg-info/requires.txt
+[12.974s] writing top-level names to opponent_publisher.egg-info/top_level.txt
+[12.975s] writing manifest file 'opponent_publisher.egg-info/SOURCES.txt'
+[12.983s] reading manifest file 'opponent_publisher.egg-info/SOURCES.txt'
+[12.984s] writing manifest file 'opponent_publisher.egg-info/SOURCES.txt'
+[12.991s] running build_ext
+[12.991s] Creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages/opponent-publisher.egg-link (link to .)
+[12.991s] Installing collision_detector script to /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/opponent_publisher
+[12.992s] Installing obstacle_publisher script to /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/opponent_publisher
+[12.992s] 
+[12.992s] Installed /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher
+[12.992s] running symlink_data
+[12.993s] creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/ament_index
+[12.993s] creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/ament_index/resource_index
+[12.993s] creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/ament_index/resource_index/packages
+[12.993s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/resource/opponent_publisher -> /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/ament_index/resource_index/packages
+[12.994s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/opponent_publisher
+[12.994s] creating /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/opponent_publisher/launch
+[12.994s] symbolically linking /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/launch/opponent_publisher_launch.xml -> /home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/share/opponent_publisher/launch
+[13.824s] Invoked command in '/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher' returned '0': PYTHONPATH=/home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hanjh/F1_TENTH_UNITA/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hanjh/F1_TENTH_UNITA/build/opponent_publisher/build --no-deps symlink_data

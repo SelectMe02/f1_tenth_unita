@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hanjh/F1_TENTH_UNITA/install/vesc_driver/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/install/vesc_ackermann/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/install/vesc_msgs/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/install/teleop_tools_msgs/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/install/f110_msgs/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/install/ackermann_mux/include/**",
+        "/home/hanjh/ros2_ws/install/custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/src/race_stack/base_system/f1tenth_system/ackermann_mux/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_ackermann/include/**",
+        "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

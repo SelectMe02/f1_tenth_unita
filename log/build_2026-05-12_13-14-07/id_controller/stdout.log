@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating id_controller.egg-info
+writing id_controller.egg-info/PKG-INFO
+writing dependency_links to id_controller.egg-info/dependency_links.txt
+writing entry points to id_controller.egg-info/entry_points.txt
+writing requirements to id_controller.egg-info/requires.txt
+writing top-level names to id_controller.egg-info/top_level.txt
+writing manifest file 'id_controller.egg-info/SOURCES.txt'
+reading manifest file 'id_controller.egg-info/SOURCES.txt'
+writing manifest file 'id_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/lib/python3.10/site-packages/id-controller.egg-link (link to .)
+
+Installed /home/hanjh/F1_TENTH_UNITA/build/id_controller
+running symlink_data
+creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index
+creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index
+creating /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index/packages
+symbolically linking /home/hanjh/F1_TENTH_UNITA/build/id_controller/resource/id_controller -> /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/ament_index/resource_index/packages
+symbolically linking /home/hanjh/F1_TENTH_UNITA/build/id_controller/package.xml -> /home/hanjh/F1_TENTH_UNITA/install/id_controller/share/id_controller

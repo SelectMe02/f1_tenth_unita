@@ -1,0 +1,3 @@
+[console_scripts]
+slam_tuner_node = slam_tuner.slam_tuner_node:main
+

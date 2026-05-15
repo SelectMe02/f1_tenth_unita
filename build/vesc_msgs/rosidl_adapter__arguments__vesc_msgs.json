@@ -1,0 +1,9 @@
+{
+  "package_name": "vesc_msgs",
+  "non_idl_tuples": [
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_msgs:msg/VescState.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_msgs:msg/VescStateStamped.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_msgs:msg/VescImu.msg",
+    "/home/hanjh/F1_TENTH_UNITA/src/race_stack/sensors/vesc/vesc_msgs:msg/VescImuStamped.msg"
+  ]
+}
