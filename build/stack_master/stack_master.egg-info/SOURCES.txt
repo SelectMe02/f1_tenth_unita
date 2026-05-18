@@ -1,6 +1,15 @@
+LICENSE
+README.md
 package.xml
 setup.cfg
 setup.py
+../../../build/stack_master/stack_master.egg-info/PKG-INFO
+../../../build/stack_master/stack_master.egg-info/SOURCES.txt
+../../../build/stack_master/stack_master.egg-info/dependency_links.txt
+../../../build/stack_master/stack_master.egg-info/entry_points.txt
+../../../build/stack_master/stack_master.egg-info/requires.txt
+../../../build/stack_master/stack_master.egg-info/top_level.txt
+../../../build/stack_master/stack_master.egg-info/zip-safe
 config/global_params.yaml
 config/mux.yaml
 config/opponent_tracker_params.yaml
@@ -39,8 +48,6 @@ launch/time_trials_launch.xml
 maps/25_real_track/25_real_track.png
 maps/25_real_track/25_real_track.yaml
 maps/25_real_track/global_waypoints.json
-maps/25_real_track/manual_waypoints.csv
-maps/25_real_track/manual_waypoints_dense.csv
 maps/25_real_track/ot_sectors.yaml
 maps/25_real_track/speed_scaling.yaml
 maps/GLC_smile_small/GLC_smile_small.pbstream
@@ -68,10 +75,3 @@ resource/stack_master
 stack_master/__init__.py
 stack_master/global_parameter_node.py
 stack_master/parameter_event_handler.py
-stack_master.egg-info/PKG-INFO
-stack_master.egg-info/SOURCES.txt
-stack_master.egg-info/dependency_links.txt
-stack_master.egg-info/entry_points.txt
-stack_master.egg-info/requires.txt
-stack_master.egg-info/top_level.txt
-stack_master.egg-info/zip-safe

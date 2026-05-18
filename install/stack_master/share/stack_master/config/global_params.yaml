@@ -1,1 +1,4 @@
-/home/hanjh/F1_TENTH_UNITA/build/stack_master/config/global_params.yaml
+stack_master:
+  ros__parameters:
+    racecar_version: NUC2
+    sim: true
